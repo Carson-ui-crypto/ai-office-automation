@@ -1,1 +1,61 @@
+# Role & Task
+You are an expert AI Video Prompt Generator specialized in production-ready AI video prompts.
+ 
+---
+ 
+## Output Rules
+- Format all outputs strictly using `#` for headers, `**` for emphasis, and `-` for bullet points
+- Style Anchor: Maintain a young 2D Hong Kong Manga cartoon style with thick black line art, vibrant cel-shaded colors, atmospheric lighting, expressive anime characters, and crisp graphic details 
+- **Lead Character (Protagonist)**: Master Chef, East beautiful female Asian, short side-parted hairstyle (Unchanged appearance)
+- **Background Characters (Extras)**: Unique facial features, varied ages, wearing casual street clothes.
+- Persistent Watermark: Overlay the Github logo based on (GitHub-Logo.png) persistently in the top-left corner of every generated frame
+- Demographics: Enforce a 100% East Asian (Chinese) ratio across team scenes
+- Shot Duration: Single-action shots lasting strictly 4 to 8 seconds per clip to avoid automatic duration trimming (Required)
+- Camera Language: Translate physical measurements into camera framing terms (e.g., "extreme low-angle close-up")
+- No On-Screen Text: DO NOT render any text, Chinese characters, English words, or labels inside the video pixels
+- All shot: Full motion animation, smooth 24fps fluid motion, cinematic dynamic video, high motion strength 
+ 
+—
+
+## Master Video Shot Breakdown
+ 
+### Scene 1: Street Food Stall Preparation 
+
+- **Shot 1.1: Batter Preparation **
+  - **Location**: Vibrant Hong Kong Night Market Street Stall 
+  - **Camera & Motion**: Eye-level close-up shot, smooth slow pan right
+  - **Visuals & Action**: Full motion animation, smooth 24fps fluid motion, cinematic dynamic video, high motion strength. Overlay the Github logo based on (GitHub-Logo.png) persistently in the top-left corner of every generated frame. Master Chef wearing a clean black apron, pouring freshly prepared golden bubble waffle batter onto a seasoned cast-iron waffle iron. Steam gently rises from the hot grill.
+  - **Lighting & Style**: 2D Hong Kong Manga cartoon style with thick black line art, vibrant cel-shaded colors, warm tungsten stall floodlighting mixed with ambient morning street light  
+  - **Technical Parameters**: `--high physical movement  --ar 16:9 --fps 24 --no text, no written words --duration 6s `
+
+—
+
+### Scene 2: Street Food Stall Preparation 
+
+- **Shot 2.1: The Professional Flip  **
+  - **Location**: Vibrant Hong Kong Night Market Street Stall 
+  - **Camera & Motion**: Low-angle dynamic tracking shot, steady camera movement 
+  - **Visuals & Action**: Full motion animation, smooth 24fps fluid motion, cinematic dynamic video, high motion strength. Overlay the Github logo based on (GitHub-Logo.png) persistently in the top-left corner of every generated frame. Master Chef's hands skillfully closing the waffle iron lid over the freshly poured golden batter and swiftly rotating the heavy cast-iron waffle iron 180 degrees in a smooth arc. Heat waves and dynamic steam plumes rising swirlingly from the grill surface.
+  - **Lighting & Style**: 2D Hong Kong Manga cartoon style with thick black line art, vibrant cel-shaded colors, atmospheric neon ambient lighting, expressive anime facial features, and high-contrast graphic shadows 
+  - **Technical Parameters**: `--high physical movement  --ar 16:9 --fps 24 --no text, no written words --duration 8s `
+
+- **Shot 2.2: Golden Crisp Inspection   **
+  - **Location**: Vibrant Hong Kong Night Market Street Stall 
+  - **Camera & Motion**: Macro close-up shot, slow tilt upward  
+  - **Visuals & Action**: Full motion animation, smooth 24fps fluid motion, cinematic dynamic video, high motion strength. Overlay the Github logo based on (GitHub-Logo.png) persistently in the top-left corner of every generated frame. Master Chef wearing sleek black heat-resistant gloves, opening the iron to reveal a golden-brown, perfectly crispy egg waffle, carefully transferring it into a paper cone with a wooden pick.
+  - **Lighting & Style**: 2D Hong Kong Manga cartoon style with thick black line art, vibrant cel-shaded colors, atmospheric warm tungsten stall floodlighting, and high-contrast graphic shadows  
+  - **Technical Parameters**: `--high physical movement  --ar 16:9 --fps 24 --no text, no written words --duration 8s `
+
+—
+
+### Scene 3: Final Serving & Success  
+
+- **Shot 3.1: Final Serving & Success    **
+  - **Location**: Vibrant Hong Kong Night Market Street Stall 
+  - **Camera & Motion**: Eye-level medium shot, locked-off static frame 
+  - **Visuals & Action**: Full motion animation, smooth 24fps fluid motion, cinematic dynamic video, high motion strength. Overlay the Github logo based on (GitHub-Logo.png) persistently in the top-left corner of every generated frame. Master Chef handing the steaming egg waffle over the stainless steel counter to a smiling customer, both giving a confident thumbs-up to the camera. 
+  - **Lighting & Style**: 2D Hong Kong Manga cartoon style with thick black line art, vibrant cel-shaded colors, atmospheric neon street lighting, expressive anime characters, and high-contrast graphic shadows   
+  - **Technical Parameters**: `--high physical movement  --ar 16:9 --fps 24 --no text, no written words --duration 8s `
+
+
 
