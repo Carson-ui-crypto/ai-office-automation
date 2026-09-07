@@ -21,7 +21,6 @@
 * <b>公司標誌 / 水印</b>
   - **預設 (Default)**: `company circular blue logo` (Overlayed in top-left corner)
   - **修改建議**: 可自訂品牌名稱與位置。
-  - 你可以根據不同項目的需求，將Logo設定為 **固定** 或 **不固定**
 * <b>團隊與人物背景</b>
   - **預設 (Default)**: 100% East Asian (Chinese) ratio across all team scenes.
   - **修改建議**: 可根據目標市場或客戶需求調整角色種族、性別比例或年齡層。
