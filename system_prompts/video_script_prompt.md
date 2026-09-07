@@ -39,7 +39,7 @@
    - **適用情境**：全片所有 Scene 與 Shot 嚴格限定在**單一指定場所**（如：地庫公司停車場）內進行作業。
    - **適用情境**：允許每個 Scene 切換至**不同作業場所**（例如：辦公大樓大堂 $\rightarrow$ 停車場 $\rightarrow$ 戶外裝卸區），用以展現跨場域的完整服務流程。
    - [![Watch on YouTube](https://img.shields.io/badge/YOUTUBE-WATCH_SHOWCASE-red?style=for-the-badge&logo=youtube)](https://youtu.be/6S0USJKclMc)
-   - [![Hong Kong Manga AI Video](https://img.youtube.com/vi/6S0USJKclMc/hqdefault.jpg)](https://youtu.be/6S0USJKclMc)
+   - 🎬 **觀看展示影片**: [Hong Kong Manga Style AI Animation](https://youtu.be/6S0USJKclMc)
 ---
 
 ## Master Video Shot Breakdown
