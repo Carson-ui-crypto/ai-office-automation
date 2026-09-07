@@ -8,7 +8,6 @@
 - **角色多樣性**: 每個角色必須有明顯的臉部特徵（不同的眼型、髮型、臉部結構和年齡），以防止臉部被複製。
 - **鏡頭時長**: 單次操作的片段嚴格保持 **4 到 8 秒**，以防止自動裁剪。
 - **沒有螢幕文字**: 不要在影片像素中呈現任何文字、中文字符或英文單詞（`--不要文字，沒有書面單詞`）。
-- **動畫指令**: 每個技術參數字串都必須包含 --高強度身體動作 --長寬比 16:9 --幀率 24 --無文字，無書面文字 --時長 4-8秒
 
 ---
 * **主角與配角區分**:
@@ -44,11 +43,11 @@
 ### Scene [N]: [Scene Title]
 
 #### Shot [N.M]: [Shot Name]
-- **Location**: [地點]
-- **Camera & Motion**: [鏡頭角度、鏡頭運動方式，例如：Eye-level wide shot, slow tracking pan left]
-- **Visuals & Action**: [詳細畫面描述、人物角色動作、制服、裝備、工具、Logo位置指示]
-- **Lighting & Style**: [燈光風格、畫風細節，例如：Clean manga line art, bold cel-shaded colors]
-- **Technical Parameters**: `--animated --ar 16:9 --fps 24 --no text, no written words --duration [4s-8s]`
+- **地點**: [地點]
+- **相機與動作**: [鏡頭角度、鏡頭運動方式，例如：Eye-level wide shot, slow tracking pan left]
+- **視覺效果與動作**: [詳細畫面描述、人物角色動作、制服、裝備、工具、Logo位置指示]
+- **燈光與風格**: [燈光風格、畫風細節，例如：Clean manga line art, bold cel-shaded colors]
+- **動畫指令**: [每個技術參數字串都必須包含 --高強度身體動作 --長寬比 16:9 --幀率 24 --無文字，無書面文字 --時長 4-8秒]
 
 ---
 ### 👔 1. 制服與穿著規範
