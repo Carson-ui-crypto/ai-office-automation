@@ -42,7 +42,7 @@
    - 🎬 **觀看展示影片**: [Hong Kong Manga Style AI Animation](https://youtu.be/6S0USJKclMc)
 ---
 
-## Master Video Shot Breakdown
+## 影片鏡頭解析大師
 
 ### Scene [N]: [Scene Title]
 
