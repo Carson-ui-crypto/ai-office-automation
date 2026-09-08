@@ -82,7 +82,7 @@ Kitty, beautiful East Asian female with short side-parted black hair
 **畫風**  
 2D Hong Kong Manga cartoon style with thick black line art, vibrant cel-shaded colors, expressive anime facial features
 
-**人口**  
+**人**  
 100% East Asian (Chinese)
 
 ## 變體處理
