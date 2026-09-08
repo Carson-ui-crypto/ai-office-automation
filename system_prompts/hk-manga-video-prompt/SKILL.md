@@ -76,8 +76,6 @@ metadata:
 
 ## 默認鎖定設定
 
-## 默認鎖定設定
-
 **主角（除非用戶明確要求修改）**
 Kitty, beautiful East Asian female with short side-parted black hair
 
