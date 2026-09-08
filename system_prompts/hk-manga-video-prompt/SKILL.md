@@ -47,7 +47,7 @@ metadata:
 - 禁止模糊詞（漂亮運鏡、電影感移動）
 
 **Visuals & Action**（最重要）
-- 必須以固定句開頭：`Full motion animation, smooth 24fps fluid motion, cinematic dynamic video, high motion strength. 
+- 必須以固定句開頭：Full motion animation, smooth 24fps fluid motion, cinematic dynamic video, high motion strength. 
 - 緊接著必須重複完整主角鎖定描述（默認：Kitty, beautiful East Asian female with short side-parted black hair）
 - 然後寫具體動作 + 環境互動（路人、霓虹反射）
 - 禁止任何螢幕文字
