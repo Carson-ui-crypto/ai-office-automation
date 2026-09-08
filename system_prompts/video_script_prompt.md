@@ -1,4 +1,5 @@
 [![Status](https://img.shields.io/badge/PROJECT-COMPLETED-2ea44f?style=for-the-badge)](https://github.com/your-username/your-repo)
+[![Style](https://img.shields.io/badge/STYLE-2D_MANGA-ff69b4?style=for-the-badge)](https://github.com/your-username/your-repo)
 [![Style](https://img.shields.io/badge/STYLE-3D_MANGA-ff69b4?style=for-the-badge)](https://github.com/your-username/your-repo)
 [![FPS](https://img.shields.io/badge/FPS-24_FLUID-blue?style=for-the-badge)](https://github.com/your-username/your-repo)
 # 角色&任務
