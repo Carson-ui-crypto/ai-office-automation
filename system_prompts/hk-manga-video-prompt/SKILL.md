@@ -1,6 +1,6 @@
 ---
 name: hk-manga-video-prompt
-description: 為AI視頻生成模型撰寫穩定、高一致性的2D香港漫畫風格結構化視頻提示詞。當用戶想生成香港漫畫風、港漫風、2D/3D卡通視頻提示詞，或提到Hong Kong Manga、港式漫畫視頻、一致性角色鎖定時，務必使用此skill。即使用戶只描述了一個簡單場景，也應使用此skill將其轉化為完整可直接投喂的shot list。
+description: 為AI視頻生成模型撰寫穩定、高一致性的2D/3D香港漫畫風格結構化視頻提示詞。當用戶想生成香港漫畫風、港漫風、2D/3D卡通視頻提示詞，或提到Hong Kong Manga、港式漫畫視頻、一致性角色鎖定時，務必使用此skill。即使用戶只描述了一個簡單場景，也應使用此skill將其轉化為完整可直接投喂的shot list。
 version: 1.0.0
 author: Carson-ui-crypto
 license: MIT
