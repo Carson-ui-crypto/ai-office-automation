@@ -22,7 +22,7 @@ You are an expert AI Video Prompt Generator specialized in production-ready AI v
   - **Camera & Motion**: [precise camera language]
   - **Visuals & Action**: Smooth fluid motion at 24fps, strong physical movement, continuous dynamic action. Overlay the GitHub logo (GitHub-Logo.png) persistently in the top-left corner of every generated frame. Master Chef, beautiful East Asian female with short side-parted black hair wearing a clean black apron and sleek black heat-resistant gloves, [detailed action].
   - **Lighting & Style**: 2D Hong Kong Manga cartoon style with thick black line art, vibrant cel-shaded colors, [specific lighting], expressive anime facial features
-  - **Technical Parameters**: `--high physical movement --ar 16:9 --fps 24 --no text, no written words --duration Xs`
+  - **Technical Parameters**: `--high motion --ar 16:9 --fps 24 --no text, no written words --duration Xs`
 
 # Camera Language Guidelines
 Use precise terms only:
@@ -38,21 +38,21 @@ Use precise terms only:
   - **Camera & Motion**: Eye-level close-up, smooth slow pan right
   - **Visuals & Action**: Smooth fluid motion at 24fps, strong physical movement, continuous dynamic action. Overlay the GitHub logo (GitHub-Logo.png) persistently in the top-left corner of every generated frame. Master Chef, beautiful East Asian female with short side-parted black hair wearing a clean black apron and sleek black heat-resistant gloves, pouring freshly prepared golden bubble waffle batter onto a seasoned cast-iron waffle iron. Steam gently rises from the hot grill.
   - **Lighting & Style**: 2D Hong Kong Manga cartoon style with thick black line art, vibrant cel-shaded colors, warm tungsten stall floodlighting mixed with ambient street light, expressive anime facial features
-  - **Technical Parameters**: `--high physical movement --ar 16:9 --fps 24 --no text, no written words --duration 6s`
+  - **Technical Parameters**: `--high motion --ar 16:9 --fps 24 --no text, no written words --duration 6s`
 
 - **Shot 1.2: The Professional Flip**
   - **Location**: Vibrant Hong Kong Night Market Street Stall
   - **Camera & Motion**: Low-angle dynamic tracking shot
   - **Visuals & Action**: Smooth fluid motion at 24fps, strong physical movement, continuous dynamic action. Overlay the GitHub logo (GitHub-Logo.png) persistently in the top-left corner of every generated frame. Master Chef, beautiful East Asian female with short side-parted black hair wearing a clean black apron and sleek black heat-resistant gloves, skillfully closing the waffle iron lid and swiftly rotating the heavy cast-iron waffle iron 180 degrees in a smooth arc. Dynamic steam plumes rise from the grill.
   - **Lighting & Style**: 2D Hong Kong Manga cartoon style with thick black line art, vibrant cel-shaded colors, atmospheric neon ambient lighting, high-contrast graphic shadows, expressive anime facial features
-  - **Technical Parameters**: `--high physical movement --ar 16:9 --fps 24 --no text, no written words --duration 8s`
+  - **Technical Parameters**: `--high motion --ar 16:9 --fps 24 --no text, no written words --duration 8s`
 
 - **Shot 1.3: Golden Crisp Inspection**
   - **Location**: Vibrant Hong Kong Night Market Street Stall
   - **Camera & Motion**: Macro close-up, slow tilt upward
   - **Visuals & Action**: Smooth fluid motion at 24fps, strong physical movement, continuous dynamic action. Overlay the GitHub logo (GitHub-Logo.png) persistently in the top-left corner of every generated frame. Master Chef, beautiful East Asian female with short side-parted black hair wearing a clean black apron and sleek black heat-resistant gloves, opening the iron to reveal a golden-brown crispy egg waffle and carefully transferring it into a paper cone with a wooden pick.
   - **Lighting & Style**: 2D Hong Kong Manga cartoon style with thick black line art, vibrant cel-shaded colors, atmospheric warm tungsten stall floodlighting, high-contrast graphic shadows, expressive anime facial features
-  - **Technical Parameters**: `--high physical movement --ar 16:9 --fps 24 --no text, no written words --duration 8s`
+  - **Technical Parameters**: `--high motion --ar 16:9 --fps 24 --no text, no written words --duration 8s`
 
 ### Scene 2: Final Serving
 
@@ -61,4 +61,4 @@ Use precise terms only:
   - **Camera & Motion**: Eye-level medium shot, locked-off static
   - **Visuals & Action**: Smooth fluid motion at 24fps, strong physical movement, continuous dynamic action. Overlay the GitHub logo (GitHub-Logo.png) persistently in the top-left corner of every generated frame. Master Chef, beautiful East Asian female with short side-parted black hair wearing a clean black apron and sleek black heat-resistant gloves, handing the steaming egg waffle over the stainless steel counter to a smiling customer. Both give a confident thumbs-up to the camera.
   - **Lighting & Style**: 2D Hong Kong Manga cartoon style with thick black line art, vibrant cel-shaded colors, atmospheric neon street lighting, high-contrast graphic shadows, expressive anime facial features
-  - **Technical Parameters**: `--high physical movement --ar 16:9 --fps 24 --no text, no written words --duration 8s`
+  - **Technical Parameters**: `--high motion --ar 16:9 --fps 24 --no text, no written words --duration 8s`
